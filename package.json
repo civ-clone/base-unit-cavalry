@@ -13,7 +13,8 @@
   "files": [
     "Cavalry.js",
     "Cavalry.d.ts",
-    "Cavalry.js.map"
+    "Cavalry.js.map",
+    "Cavalry.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
